@@ -1,0 +1,13 @@
+F:\Projetos de estudo VS-2019\new project test\new project test\bin\Debug\netcoreapp3.1\new project test.exe
+F:\Projetos de estudo VS-2019\new project test\new project test\bin\Debug\netcoreapp3.1\new project test.deps.json
+F:\Projetos de estudo VS-2019\new project test\new project test\bin\Debug\netcoreapp3.1\new project test.runtimeconfig.json
+F:\Projetos de estudo VS-2019\new project test\new project test\bin\Debug\netcoreapp3.1\new project test.runtimeconfig.dev.json
+F:\Projetos de estudo VS-2019\new project test\new project test\bin\Debug\netcoreapp3.1\new project test.dll
+F:\Projetos de estudo VS-2019\new project test\new project test\bin\Debug\netcoreapp3.1\new project test.pdb
+F:\Projetos de estudo VS-2019\new project test\new project test\obj\Debug\netcoreapp3.1\new project test.csprojAssemblyReference.cache
+F:\Projetos de estudo VS-2019\new project test\new project test\obj\Debug\netcoreapp3.1\new project test.AssemblyInfoInputs.cache
+F:\Projetos de estudo VS-2019\new project test\new project test\obj\Debug\netcoreapp3.1\new project test.AssemblyInfo.cs
+F:\Projetos de estudo VS-2019\new project test\new project test\obj\Debug\netcoreapp3.1\new project test.csproj.CoreCompileInputs.cache
+F:\Projetos de estudo VS-2019\new project test\new project test\obj\Debug\netcoreapp3.1\new project test.dll
+F:\Projetos de estudo VS-2019\new project test\new project test\obj\Debug\netcoreapp3.1\new project test.pdb
+F:\Projetos de estudo VS-2019\new project test\new project test\obj\Debug\netcoreapp3.1\new project test.genruntimeconfig.cache
